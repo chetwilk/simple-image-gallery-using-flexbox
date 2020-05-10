@@ -112,6 +112,7 @@ textarea {
     font-weight: 100;
     text-align: center; /* Center of set width */
     width: 420px;
+    box-shadow: 4px 4px 5px #888;
    }
 
    img {
